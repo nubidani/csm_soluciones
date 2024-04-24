@@ -1,0 +1,50 @@
+body {
+    font-family: 'Roboto';
+    margin: 0;
+    padding: 0;
+    background-color: #D3D3D3;
+    
+}
+
+/*navbar*/
+.fondo {
+    background-color: #FFA500;
+}
+.navbar-brand {
+    height: 3rem;
+}
+
+/*carrusel*/
+.img-bottom {
+    background-color:  #1e2749;
+    color: #FFFFFF;
+    text-align: center;
+    padding-bottom: 2rem;
+    padding-top: 0.25rem;
+}
+
+.carousel-indicators {
+    bottom: -0.5rem;
+    background-color:  #1e2749;
+}
+
+/*seccion soluciones*/
+#soluciones h4{
+    color: #1e2749;
+}
+
+/*Contacto*/
+#contacto{
+    background-color: #1e2749;
+    color:#FFFFFF;
+}
+
+/*footer*/
+footer img {
+    height: 3rem;
+}
+
+footer .nav {
+    padding-left: 2.5rem;
+}
+
